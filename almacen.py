@@ -34,7 +34,7 @@ def obtener_caracteristicas():
     return caracteristicas
 #con esta función obtenemos los campos de entrada del usuario 
 def main():
-     print("*************************************************")
+    print("*************************************************")
     print("Introduzca los datos del dispositivo electrónico:")
     tipo = input("Tipo (Celular, Tablet, Portátil): ")
     modelo = input("Modelo: ")
